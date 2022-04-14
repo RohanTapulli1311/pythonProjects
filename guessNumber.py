@@ -29,5 +29,5 @@ def computer_guess(x):
 
 
 
-#guess(10)
+guess(10)
 computer_guess(10)
